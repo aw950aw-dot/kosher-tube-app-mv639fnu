@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">צינור כשר</string>
+    <string name="settings_title">הגדרות בקרת הורים</string>
+    <string name="settings_button">הגדרות</string>
+    <string name="password_prompt">הכנס סיסמה להגדרות (ברירת מחדל: 1234):</string>
+    <string name="submit">אישור</string>
+    <string name="cancel">ביטול</string>
+    <string name="wrong_password">סיסמה שגויה!</string>
+    <string name="search_channels_hint">חפש ערוץ יוטיוב להוספה...</string>
+    <string name="approved_channels">ערוצים מאושרים לצפייה:</string>
+    <string name="change_password">שנה סיסמה</string>
+    <string name="new_password_hint">הכנס סיסמה חדשה</string>
+    <string name="password_changed">הסיסמה עודכנה בהצלחה</string>
+    <string name="global_search_hint">חיפוש בכל הערוצים המאושרים...</string>
+    <string name="channel_search_hint">חיפוש בערוץ זה...</string>
+    <string name="download_audio">הורד שמע (MP3)</string>
+    <string name="download_video">הורד סרטון (MP4)</string>
+    <string name="audio_quality">איכות שמע:</string>
+    <string name="video_quality">איכות סרטון:</string>
+    <string name="download_folder">תיקיית הורדות:</string>
+    <string name="no_approved_channels">אין ערוצים מאושרים עדיין. היכנס להגדרות להוסיף ערוצים.</string>
+    <string name="downloads_title">הורדות</string>
+    <string name="downloading">מוריד...</string>
+    <string name="download_complete">ההורדה הושלמה בהצלחה!</string>
+    <string name="download_failed">ההורדה נכשלה.</string>
+    <string name="save">שמור</string>
+</resources>
