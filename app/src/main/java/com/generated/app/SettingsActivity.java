@@ -237,8 +237,7 @@ public class SettingsActivity extends Activity {
         approvedChannels = PreferencesHelper.getApprovedChannels(this);
         for (YouTubeItem ch : approvedChannels) {
             if (ch.getId().equals(channel.getId())) {
-                Toast.Already = Toast.makeText(this, "הערוץ כבר מאושר", Toast.LENGTH_SHORT);
-                Toast.Already.show();
+                Toast.makeText(this, "הערוץ כבר מאושר", Toast.LENGTH_SHORT).show();
                 return;
             }
         }
